@@ -34,5 +34,14 @@ The dataset was analyzed using pivot tables, slicers, and charts in Google Sheet
   - Individuals with **zero cars** were significantly more likely to purchase bikes.
   - Among middle-aged individuals, those without cars had the highest bike purchase volume.
 
+### Visualization
+- **Bike Purchases by Commute Distance**  
+  ![Bike Purchases by Commute Distance](bike_purchase_by_commute_distance.jpeg)
+- **Bike Purchases by Age Brackets**  
+  ![Bike Purchases by Age Brackets](bike_purchase_related_to_age_brakcets.jpeg)
+  - **Impact of Car Ownership on Bike Purchases**  
+  ![Impact of Car Ownership on Bike Purchases](impact_of_car_ownership_on_bike_purchases.jpeg)
 
+
+#
 
