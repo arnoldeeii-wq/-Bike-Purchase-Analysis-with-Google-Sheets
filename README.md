@@ -47,7 +47,7 @@ The dataset was analyzed using pivot tables, slicers, and charts in Google Sheet
 - Google Sheets (Data cleaning, Pivot tables, Charts)
 
 ### Folder Structure
-- `bike_buyers.csv` — raw dataset
+- `Excel Project Dataset.xlsx` — raw dataset
 - `[Google Sheets link](https://docs.google.com/spreadsheets/d/1hDMrC3-eY92TLo0xaLx_yjHt1QklD2yX/edit?usp=drive_link&ouid=117323130776602956523&rtpof=true&sd=true)` — cleaned and analyzed workbook
 - `Dashboard.png` — screenshot of final dashboard
 
