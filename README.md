@@ -6,7 +6,7 @@ This project analyzes consumer behavior around bike purchases using a dataset of
 - **Fields:** Age, Gender, Region, Commute Distance, Number of Cars, Purchased Bike
 - **Size:** 1,000 rows
 
-###🧹 Data Cleaning
+### 🧹 Data Cleaning
 To prepare the dataset for analysis, the following steps were performed in Google Sheets:
 
 - **Removed duplicate rows** to ensure accuracy and avoid double-counting.
