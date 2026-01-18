@@ -43,5 +43,12 @@ The dataset was analyzed using pivot tables, slicers, and charts in Google Sheet
   ![Impact of Car Ownership on Bike Purchases](impact_of_car_ownership_on_bike_purchases_by_age.jpeg)
 
 
-#
+### Tools Used
+- Google Sheets (Data cleaning, Pivot tables, Charts)
+
+### Folder Structure
+- `bike_buyers.csv` — raw dataset
+- `[Google Sheets link](https://docs.google.com/spreadsheets/d/1hDMrC3-eY92TLo0xaLx_yjHt1QklD2yX/edit?usp=drive_link&ouid=117323130776602956523&rtpof=true&sd=true)` — cleaned and analyzed workbook
+- `Dashboard.png` — screenshot of final dashboard
+
 
