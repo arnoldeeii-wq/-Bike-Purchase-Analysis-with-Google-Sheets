@@ -47,8 +47,7 @@ The dataset was analyzed using pivot tables, slicers, and charts in Google Sheet
 - Google Sheets (Data cleaning, Pivot tables, Charts)
 
 ### Folder Structure
-- `Excel Project Dataset.xlsx` — raw dataset
-- `[Google Sheets link](https://docs.google.com/spreadsheets/d/1hDMrC3-eY92TLo0xaLx_yjHt1QklD2yX/edit?usp=drive_link&ouid=117323130776602956523&rtpof=true&sd=true)` — cleaned and analyzed workbook
-- `Dashboard.png` — screenshot of final dashboard
-
+- [Raw Dataset](Excel_Project_Dataset.xlsx)
+- [Google Sheets link](https://docs.google.com/spreadsheets/d/1hDMrC3-eY92TLo0xaLx_yjHt1QklD2yX/edit?usp=drive_link&ouid=117323130776602956523&rtpof=true&sd=true)
+- [Screenshot of final dashboard](Dashboard.png)
 
