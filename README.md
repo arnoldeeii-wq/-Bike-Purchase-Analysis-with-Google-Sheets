@@ -36,12 +36,16 @@ The dataset was analyzed using pivot tables, slicers, and charts in Google Sheet
 
 ### Visualization
 - **Bike Purchases by Commute Distance**  
-  ![Bike Purchases by Commute Distance](bike_purchase_by_commute_distance.jpeg)
+  ![Bike Purchases by Commute Distance](screenshots/bike_purchase_by_commute_distance.jpeg)
+  *Insight:* Individuals with shorter commute distances (0–1 miles) purchased the most bikes.
+  
 - **Bike Purchases by Age Brackets**  
-  ![Bike Purchases by Age Brackets](bike_purchase_related_to_age_brakcets.jpeg)
+  ![Bike Purchases by Age Brackets](screenshots/bike_purchase_related_to_age_brakcets.jpeg)
+  *Insight:* Middle-aged individuals had the highest bike purchase rate compared to adolescents and older groups.
+  
 - **Impact of Car Ownership on Bike Purchases**  
-  ![Impact of Car Ownership on Bike Purchases](impact_of_car_ownership_on_bike_purchases_by_age.jpeg)
-
+  ![Impact of Car Ownership on Bike Purchases](screenshots/impact_of_car_ownership_on_bike_purchases_by_age.jpeg)
+  *Insight:* People with zero cars were significantly more likely to purchase bikes, especially in the middle-aged bracket.
 
 ### Tools Used
 - Google Sheets (Data cleaning, Pivot tables, Charts)
